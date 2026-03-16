@@ -1,0 +1,1 @@
+# thread-pool-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 thread_pool.py\n```\n
